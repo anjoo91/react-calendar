@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const days = [
     {
         name: "Sunday"
